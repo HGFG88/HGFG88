@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HGFG88
+- 👀 I’m interested in ... well I just got to do this seminar work on git, github and some other things
+- 🌱 I’m currently learning ... what this stupid shit even is
